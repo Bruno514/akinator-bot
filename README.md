@@ -1,0 +1,2 @@
+# Bot para akinator
+
